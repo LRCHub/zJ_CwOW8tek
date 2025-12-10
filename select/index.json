@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "それがあなたの幸せとしても",
+  "base_artist": "HIMEHINA",
+  "createdAt": "2025-12-10T13:18:31.998292Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "それがあなたの幸せとしても(カバー)",
+      "artist": "ぱなまん",
+      "has_synced": false,
+      "path": "select/01_それがあなたの幸せとしても(カバー)_ぱなまん.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "それがあなたの幸せとしても",
+      "artist": "ダズビー",
+      "has_synced": true,
+      "path": "select/02_それがあなたの幸せとしても_ダズビー.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "それがあなたの幸せとしても (feat. 宵崎奏&東雲絵名&巡音ルカ)",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/03_それがあなたの幸せとしても_(feat._宵崎奏&東雲絵名&巡音ルカ)_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "それがあなたの幸せとしても",
+      "artist": "EVO+",
+      "has_synced": true,
+      "path": "select/04_それがあなたの幸せとしても_EVO+.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "それがあなたの幸せとしても",
+      "artist": "25時、ナイトコードで。 feat. 宵崎奏&東雲絵名&巡音ルカ",
+      "has_synced": true,
+      "path": "select/05_それがあなたの幸せとしても_25時、ナイトコードで。_feat._宵崎奏&東雲絵名&巡音ルカ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "それがあなたの幸せとしても",
+      "artist": "Heavenz feat.KK",
+      "has_synced": true,
+      "path": "select/06_それがあなたの幸せとしても_Heavenz_feat.KK.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "それがあなたの幸せとしても",
+      "artist": "Heavenz feat. EVO+",
+      "has_synced": true,
+      "path": "select/07_それがあなたの幸せとしても_Heavenz_feat._EVO+.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "それがあなたの幸せとしても - Sore Ga Anata No Shiawase To Shite Mo",
+      "artist": "다즈비",
+      "has_synced": true,
+      "path": "select/08_それがあなたの幸せとしても_-_Sore_Ga_Anata_No_Shiawase_To_Shite_Mo_다즈비.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "それがあなたの幸せとしても",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/09_それがあなたの幸せとしても_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "それがあなたの幸せとしても",
+      "artist": "Heavenz feat. 巡音ルカ",
+      "has_synced": true,
+      "path": "select/10_それがあなたの幸せとしても_Heavenz_feat._巡音ルカ.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "それがあなたの幸せとしても",
+      "artist": "Heavenz",
+      "has_synced": true,
+      "path": "select/11_それがあなたの幸せとしても_Heavenz.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "それがあなたの幸せとしても",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/12_それがあなたの幸せとしても_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "それがあなたの幸せとしても",
+      "artist": "Cordelia",
+      "has_synced": true,
+      "path": "select/13_それがあなたの幸せとしても_Cordelia.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "それがあなたの幸せとしても",
+      "artist": "Verschiedene Künstler",
+      "has_synced": true,
+      "path": "select/14_それがあなたの幸せとしても_Verschiedene_Künstler.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "それがあなたの幸せとしても",
+      "artist": "くろくも",
+      "has_synced": true,
+      "path": "select/15_それがあなたの幸せとしても_くろくも.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "08. それがあなたの幸せとしても",
+      "artist": "EVO+",
+      "has_synced": true,
+      "path": "select/16_08._それがあなたの幸せとしても_EVO+.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "それがあなたの幸せとしても - Sorega Anata No Shiawase To Shitemo (feat. 宵崎奏&東雲絵名&巡音ルカ)",
+      "artist": "Nightcord at 25:00",
+      "has_synced": true,
+      "path": "select/17_それがあなたの幸せとしても_-_Sorega_Anata_No_Shiawase_To_Shitemo_(feat._宵崎奏&東雲絵名&巡音ルカ)_Nightcord_at_25_00.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "それがあなたの幸せとしても",
+      "artist": "初音ミク",
+      "has_synced": true,
+      "path": "select/18_それがあなたの幸せとしても_初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "それがあなたの幸せとしても",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/19_それがあなたの幸せとしても_Various.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "それがあなたの幸せとしても",
+      "artist": "HIMEHINA",
+      "has_synced": false,
+      "path": "select/pl_01_それがあなたの幸せとしても_HIMEHINA.txt"
+    }
+  ]
+}
